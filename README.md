@@ -1,83 +1,56 @@
-# Simeon Manolov
+# Hi, I'm Simeon Manolov
 
-**AI builder at the intersection of LLM systems, business automation, and founder-led product development.**
+I'm a Telecommunications and Computer Technologies student at
+New Bulgarian University in Sofia, Bulgaria.
 
-I am based in Sofia, Bulgaria, and study Business and Entrepreneurship at New Bulgarian University. My current direction is toward AI engineering, LLM systems, automation, MLOps, and practical AI products that can support real business workflows.
+I'm interested in software development, artificial intelligence,
+and the ways technology can solve real-world problems.
 
-I am still building the portfolio, but the direction is clear: learn deeply, build in public, ship useful systems, and connect technical execution with business judgment.
+I'm currently focused on building my technical knowledge,
+improving my programming skills, and gaining practical
+experience through learning and experimentation.
 
-## What I am building toward
+## About Me
 
-- AI Engineer / LLM Architect with strong product instincts
-- MLOps-focused builder who understands deployment, evaluation, and reliability
-- Founder-minded technologist working at the edge of automation, commerce, and AI agents
-- Operator who can turn ambiguous business problems into working AI systems
+- Studying Telecommunications and Computer Technologies
+- Interested in AI, software engineering, and automation
+- Exploring programming and modern software technologies
+- Aspiring to build useful technology-driven products in the future
 
-## Current focus
+## What I'm Learning
 
-- Local AI assistants and terminal-based AI workflows
-- LLM agents for business operations and internal automation
-- Shopify and e-commerce automation with AI
-- MLOps fundamentals: model deployment, monitoring, evaluation, and production readiness
-- AI product experiments for startup validation
+I'm working on developing a solid foundation in:
 
-## Projects / directions
+- Programming fundamentals
+- Software development
+- Python
+- Git and GitHub
+- Artificial intelligence concepts
 
-| Direction | What I am exploring |
-| --- | --- |
-| Local AI assistant | Terminal-first workflows, memory, retrieval, tools, and local productivity loops |
-| E-commerce AI automation | Shopify workflows, product operations, customer intelligence, and business process automation |
-| LLM agents for business | Agent workflows that help with research, operations, reporting, and execution |
-| MLOps learning path | Deployment, model serving, evaluation, monitoring, and reproducible ML systems |
-| AI product experiments | Small prototypes that test startup ideas before overbuilding |
+My long-term interests include large language models,
+AI agents, and intelligent automation.
 
-## Tech stack I am learning and using
+## Projects
 
-**Languages:** Python, JavaScript / TypeScript, SQL  
-**AI / ML:** LLM APIs, prompt systems, RAG concepts, agents, evaluation basics, embeddings  
-**Data / backend:** FastAPI, Node.js, PostgreSQL, REST APIs, automation scripts  
-**MLOps direction:** Docker, model deployment, monitoring, versioning, experiment tracking  
-**Product surface:** GitHub, Markdown, web apps, dashboards, workflow automation  
-**Business context:** e-commerce, AI assistants, startup validation, operations, go-to-market thinking
+I'm using GitHub to document my learning journey
+and share projects as I develop my skills.
 
-## Business + AI edge
+My focus is on understanding how things work,
+building practical experience, and improving over time.
 
-My background is not only technical. I study business and entrepreneurship, and I am deliberately building toward the point where technical systems and business execution meet.
+## Goals
 
-That means I care about:
+My goal is to become a skilled software developer
+and eventually explore opportunities in AI engineering
+and technology entrepreneurship.
 
-- whether an AI system solves a real workflow;
-- whether automation saves time, cost, or operational complexity;
-- whether a prototype can become a product;
-- whether the model, interface, and business case make sense together.
+I believe meaningful progress comes from curiosity,
+consistency, and continuous learning.
 
-## RAISE Summit 2026
+## Connect
 
-I am using RAISE Summit 2026 as a forcing function to sharpen my AI builder profile, meet serious people in the AI ecosystem, and learn from founders, engineers, investors, and operators working on agents, LLMs, automation, and MLOps.
-
-If we meet there, I am especially interested in conversations around:
-
-- LLM systems and AI agents;
-- AI automation inside real companies;
-- MLOps and reliable AI deployment;
-- startup validation for AI products;
-- founder paths for technical builders in Europe.
-
-## Connect with me
-
-- GitHub: [github.com/SimeonManolov-prog](https://github.com/SimeonManolov-prog)
-- LinkedIn: add your LinkedIn URL here
 - Location: Sofia, Bulgaria
-- Open to: AI builder conversations, early-stage collaboration, internships, technical learning opportunities, and founder-minded AI projects
+- GitHub: [SimeonManolov-prog](https://github.com/SimeonManolov-prog)
 
-## GitHub stats
 
-<!-- Optional: uncomment after the profile has a few more repositories. -->
-<!--
-![Simeon's GitHub stats](https://github-readme-stats.vercel.app/api?username=SimeonManolov-prog&show_icons=true&theme=transparent&hide_border=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SimeonManolov-prog&layout=compact&theme=transparent&hide_border=true)
--->
-
----
-
-This profile is intentionally a work in progress. The goal is not to look finished. The goal is to keep shipping evidence.
+Always learning. Always improving.
