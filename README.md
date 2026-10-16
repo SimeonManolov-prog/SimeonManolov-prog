@@ -12,7 +12,6 @@ experience through learning and experimentation.
 
 ## About Me
 
-- Studying Telecommunications and Computer Technologies
 - Interested in AI, software engineering, and automation
 - Exploring programming and modern software technologies
 - Aspiring to build useful technology-driven products in the future
