@@ -1,6 +1,6 @@
 # Hi, I'm Simeon Manolov
 
-I'm a Telecommunications and Computer Technologies student at
+I'm a student at
 New Bulgarian University in Sofia, Bulgaria.
 
 I'm interested in software development, artificial intelligence,
